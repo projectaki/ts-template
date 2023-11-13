@@ -1,0 +1,18 @@
+{
+  "name": "spf-query",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsx index.ts",
+    "with-env": "dotenv -e ./.env --"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv-cli": "^7.3.0",
+    "tsx": "^4.1.1",
+    "typescript": "^5.2.2"
+  }
+}
